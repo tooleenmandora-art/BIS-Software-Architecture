@@ -39,12 +39,21 @@ Publisher-Subscriber Pattern with a Message Broker to enable asynchronous commun
 - Messaging Infrastructure Design
 - Presentation & Final Report
 
-##  My Contribution
-- Led the development of the Utility Tree to prioritize quality attributes.
-- Identified and refined Architecturally Significant Requirements (ASRs).
-- Analyzed performance, security, availability, and modifiability trade-offs.
-- Contributed to architectural decision-making based on quality attribute scenarios.
+## My Contribution
+- Led the development of the Utility Tree to prioritize and evaluate quality attributes.
+- Designed and documented 10 architectural analysis tables covering key quality attribute scenarios.
+- Analyzed performance, security, availability, interoperability, and modifiability trade-offs.
+- Contributed to architectural decision-making based on structured quality attribute evaluation.
 
+## Architectural Analysis Tables
+The project includes 10 structured analysis tables that evaluate:
+- Quality attribute scenarios
+- Priority levels
+- Risk assessment
+- Trade-off analysis
+- Architectural impact
+
+These tables were developed to support data-driven architectural decisions.
 ---
 
  University of Jeddah  
