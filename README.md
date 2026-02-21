@@ -70,7 +70,7 @@ The system architecture was evaluated using a structured Utility Tree to priorit
 ## Sample Architectural Analysis Tables
 
 ### Security (ASR2)
-![Security ASR Table](asr-security.png)
+![Security ASR Table]([asr-security.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/1f0078ddef508cb2fbeb224854aa3b8e12389220/asr%20security.png))
 
 ### Interoperability (ASR4)
 ![Interoperability ASR Table](asr-interoperability.png)
