@@ -63,17 +63,17 @@ These tables were developed to support data-driven architectural decisions.
 ## Utility Tree
 The system architecture was evaluated using a structured Utility Tree to prioritize quality attributes such as performance, availability, security, interoperability, and modifiability.
 
-![Utility Tree]([utility-tree.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/ea823593c4481a9623396453fd72b4c247ad0e16/utility%20tree.png))
+![Utility Tree](utilitytree.png)
 
 ---
 
 ## Sample Architectural Analysis Tables
 
 ### Security (ASR2)
-![Security ASR Table]([asr-security.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/1f0078ddef508cb2fbeb224854aa3b8e12389220/asr%20security.png))
+![Security ASR Table]([asrsecurity.png)
 
 ### Interoperability (ASR4)
-![Interoperability ASR Table]([asr-interoperability.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/75507721502345a3b238fba85faf2e0b85db1d6e/asr%20interoperability.png))
+![Interoperability ASR Table](asrinteroperability.png)
 ---
 
  University of Jeddah  
