@@ -1,9 +1,11 @@
 # Brokerage Information System (BIS)
-Software Architecture Project
+Software Architecture Design & Quality Attribute Analysis
 
 ##  Project Overview
 This project presents the architectural design of a Brokerage Information System (BIS) that integrates multiple legacy systems into a centralized platform.  
 The system focuses on scalability, security, performance, and interoperability.
+
+The project demonstrates structured architectural evaluation using scenario-based quality attribute analysis.
 
 ##  Architectural Approach
 The system architecture was designed based on:
@@ -37,7 +39,10 @@ Publisher-Subscriber Pattern with a Message Broker to enable asynchronous commun
 - Utility Tree
 - Quality Attribute Analysis
 - Messaging Infrastructure Design
-- Presentation & Final Report
+- [Final Report](BIS-Software-Architecture-Report.pdf)
+- [Presentation Slides](BIS-Software-Architecture-Presentation.pdf)
+
+---
 
 ## My Contribution
 - Led the development of the Utility Tree to prioritize and evaluate quality attributes.
@@ -54,6 +59,21 @@ The project includes 10 structured analysis tables that evaluate:
 - Architectural impact
 
 These tables were developed to support data-driven architectural decisions.
+
+## Utility Tree
+The system architecture was evaluated using a structured Utility Tree to prioritize quality attributes such as performance, availability, security, interoperability, and modifiability.
+
+![Utility Tree](utility-tree.png)
+
+---
+
+## Sample Architectural Analysis Tables
+
+### Security (ASR2)
+![Security ASR Table](asr-security.png)
+
+### Interoperability (ASR4)
+![Interoperability ASR Table](asr-interoperability.png)
 ---
 
  University of Jeddah  
