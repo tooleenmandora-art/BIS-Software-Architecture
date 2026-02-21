@@ -5,7 +5,7 @@ Software Architecture Project
 This project presents the architectural design of a Brokerage Information System (BIS) that integrates multiple legacy systems into a centralized platform.  
 The system focuses on scalability, security, performance, and interoperability.
 
-## 🏗 Architectural Approach
+##  Architectural Approach
 The system architecture was designed based on:
 
 - Architecturally Significant Requirements (ASRs)
