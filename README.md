@@ -73,7 +73,7 @@ The system architecture was evaluated using a structured Utility Tree to priorit
 ![Security ASR Table]([asr-security.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/1f0078ddef508cb2fbeb224854aa3b8e12389220/asr%20security.png))
 
 ### Interoperability (ASR4)
-![Interoperability ASR Table](asr-interoperability.png)
+![Interoperability ASR Table]([asr-interoperability.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/75507721502345a3b238fba85faf2e0b85db1d6e/asr%20interoperability.png))
 ---
 
  University of Jeddah  
