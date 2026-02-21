@@ -63,7 +63,7 @@ These tables were developed to support data-driven architectural decisions.
 ## Utility Tree
 The system architecture was evaluated using a structured Utility Tree to prioritize quality attributes such as performance, availability, security, interoperability, and modifiability.
 
-![Utility Tree](utility-tree.png)
+![Utility Tree]([utility-tree.png](https://github.com/tooleenmandora-art/BIS-Software-Architecture/blob/ea823593c4481a9623396453fd72b4c247ad0e16/utility%20tree.png))
 
 ---
 
